@@ -1,6 +1,6 @@
 {
-  "name": "@wardpeet/gatsby-plugin-static-site",
-  "version": "0.3.0",
+  "name": "@onserp/gatsby-plugin-static-site",
+  "version": "0.4.0",
   "description": "A plugin that disables client side routing for gatsby",
   "main": "index.js",
   "author": "Ward Peeters <ward@coding-tech.com>",
@@ -9,15 +9,15 @@
     "gatsby-plugin",
     "static-site"
   ],
-  "homepage": "https://github.com/wardpeet/gatsby-plugin-static-site",
-  "bugs": "https://github.com/wardpeet/gatsby-plugin-static-site/issues",
+  "homepage": "https://github.com/onSERP/gatsby-plugin-static-site",
+  "bugs": "https://github.com/onSERP/gatsby-plugin-static-site/issues",
   "repository": {
-    "url": "https://github.com/wardpeet/gatsby-plugin-static-site",
+    "url": "https://github.com/onSERP/gatsby-plugin-static-site",
     "type": "git"
   },
   "license": "MIT",
   "peerDependencies": {
-    "gatsby": "^3.0.0"
+    "gatsby": "^3.0.0 || ^4.0.0"
   },
   "files": [
     "gatsby-browser.js",
